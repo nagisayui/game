@@ -1,0 +1,56 @@
+KLEI     1 {
+	"dststeam":{
+		"image_url":"https://s3.amazonaws.com/ds-motd/motd_hamlet.tex",
+		"image_version":"23",
+		"link_title":"More Info!",
+		"link_url":"https://forums.kleientertainment.com/forums/topic/100093-dont-starve-hamlet-the-aporkalypse/"
+	},
+	"swsteam":{
+		"image_url":"https://s3.amazonaws.com/ds-motd/converted/hamlet/motd.tex",
+		"image_version":"23",
+		"link_title":"More Info!",
+		"link_url":"https://forums.kleientertainment.com/forums/topic/100093-dont-starve-hamlet-the-aporkalypse/"
+	},	
+	"rogsteam":{
+		"image_url":"https://s3.amazonaws.com/ds-motd/converted/hamlet/motd.tex",
+		"image_version":"23",
+		"link_title":"More Info!",
+		"link_url":"https://forums.kleientertainment.com/forums/topic/100093-dont-starve-hamlet-the-aporkalypse/"
+	},
+	"hamletsteam":{
+		"image_url":"https://s3.amazonaws.com/ds-motd/converted/hamlet/motd.tex",
+		"image_version":"23",
+		"link_title":"More Info!",
+		"link_url":"https://forums.kleientertainment.com/forums/topic/100093-dont-starve-hamlet-the-aporkalypse/"
+	},
+	"hamletstandalone":{
+		"image_url":"https://s3.amazonaws.com/ds-motd/converted/hamlet/motd.tex",
+		"image_version":"23",
+		"link_title":"More Info!",
+		"link_url":"https://forums.kleientertainment.com/forums/topic/100093-dont-starve-hamlet-the-aporkalypse/"
+	},
+	"steam":{
+		"image_url":"https://s3.amazonaws.com/ds-motd/converted/hamlet/motd.tex",
+		"image_version":"23",
+		"link_title":"More Info!",
+		"link_url":"https://forums.kleientertainment.com/forums/topic/100093-dont-starve-hamlet-the-aporkalypse/"
+	},
+	"swstandalone":{
+		"image_url":"https://s3.amazonaws.com/ds-motd/converted/hamlet/motd.tex",
+		"image_version":"23",
+		"link_title":"More Info!",
+		"link_url":"https://forums.kleientertainment.com/forums/topic/100093-dont-starve-hamlet-the-aporkalypse/"
+	},
+	"rogstandalone":{
+		"image_url":"https://s3.amazonaws.com/ds-motd/converted/hamlet/motd.tex",
+		"image_version":"23",
+		"link_title":"More Info!",
+		"link_url":"https://forums.kleientertainment.com/forums/topic/100093-dont-starve-hamlet-the-aporkalypse/"
+	},
+	"standalone":{
+		"image_url":"https://s3.amazonaws.com/ds-motd/converted/hamlet/motd.tex",
+		"image_version":"23",
+		"link_title":"More Info!",
+		"link_url":"https://forums.kleientertainment.com/forums/topic/100093-dont-starve-hamlet-the-aporkalypse/"
+	}
+}
